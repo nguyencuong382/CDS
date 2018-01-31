@@ -1,0 +1,256 @@
+if row_label == 'pb':
+	return 1
+if row_label == 'pl80':
+	return 2
+if row_label == 'pl100':
+	return 3
+if row_label == 'traffic_sign':
+	return 4
+if row_label == 'p11':
+	return 5
+if row_label == 'i5':
+	return 6
+if row_label == 'pn':
+	return 7
+if row_label == 'pne':
+	return 8
+if row_label == 'p23':
+	return 9
+if row_label == 'i10':
+	return 10
+if row_label == 'pl40':
+	return 11
+if row_label == 'pl120':
+	return 12
+if row_label == 'pl60':
+	return 13
+if row_label == 'pl30':
+	return 14
+if row_label == 'pl20':
+	return 15
+if row_label == 'p26':
+	return 16
+if row_label == 'p3':
+	return 17
+if row_label == 'p10':
+	return 18
+if row_label == 'i12':
+	return 19
+if row_label == 'pl70':
+	return 20
+if row_label == 'p19':
+	return 21
+if row_label == 'p5':
+	return 22
+if row_label == 'po':
+	return 23
+if row_label == 'pl50':
+	return 24
+if row_label == 'pl5':
+	return 25
+if row_label == 'pr50':
+	return 26
+if row_label == 'pm20':
+	return 27
+if row_label == 'p27':
+	return 28
+if row_label == 'p12':
+	return 29
+if row_label == 'ph4.5':
+	return 30
+if row_label == 'pr30':
+	return 31
+if row_label == 'pm15':
+	return 32
+if row_label == 'p25':
+	return 33
+if row_label == 'pl90':
+	return 34
+if row_label == 'pm30':
+	return 35
+if row_label == 'pr45':
+	return 36
+if row_label == 'ph4.2':
+	return 37
+if row_label == 'ph5':
+	return 38
+if row_label == 'pm10':
+	return 39
+if row_label == 'pm55':
+	return 40
+if row_label == 'p9':
+	return 41
+if row_label == 'pr40':
+	return 42
+if row_label == 'ph3.5':
+	return 43
+if row_label == 'ph2.8':
+	return 44
+if row_label == 'pa14':
+	return 45
+if row_label == 'ph4':
+	return 46
+if row_label == 'pm35':
+	return 47
+if row_label == 'p18':
+	return 48
+if row_label == 'p16':
+	return 49
+if row_label == 'p2':
+	return 50
+if row_label == 'p22':
+	return 51
+if row_label == 'pa13':
+	return 52
+if row_label == 'pl10':
+	return 53
+if row_label == 'i13':
+	return 54
+if row_label == 'pw3.2':
+	return 55
+if row_label == 'pr60':
+	return 56
+if row_label == 'ph3.3':
+	return 57
+if row_label == 'ph2.2':
+	return 58
+if row_label == 'p17':
+	return 59
+if row_label == 'pl15':
+	return 60
+if row_label == 'pr20':
+	return 61
+if row_label == 'ph4.8':
+	return 62
+if row_label == 'pm50':
+	return 63
+if row_label == 'pl110':
+	return 64
+if row_label == 'ph3':
+	return 65
+if row_label == 'pm5':
+	return 66
+if row_label == 'ph2':
+	return 67
+if row_label == 'pm8':
+	return 68
+if row_label == 'p6':
+	return 69
+if row_label == 'p28':
+	return 70
+if row_label == 'p21':
+	return 71
+if row_label == 'i14':
+	return 72
+if row_label == 'pa10':
+	return 73
+if row_label == 'p14':
+	return 74
+if row_label == 'pw2.5':
+	return 75
+if row_label == 'pl35':
+	return 76
+if row_label == 'p24':
+	return 77
+if row_label == 'pc':
+	return 78
+if row_label == 'pl4':
+	return 79
+if row_label == 'pl25':
+	return 80
+if row_label == 'pm1.5':
+	return 81
+if row_label == 'ph2.5':
+	return 82
+if row_label == 'pr70':
+	return 83
+if row_label == 'p8':
+	return 84
+if row_label == 'ph5.5':
+	return 85
+if row_label == 'p4':
+	return 86
+if row_label == 'pr100':
+	return 87
+if row_label == 'pm46':
+	return 88
+if row_label == 'pm2':
+	return 89
+if row_label == 'pm40':
+	return 90
+if row_label == 'pm25':
+	return 91
+if row_label == 'p15':
+	return 92
+if row_label == 'pa12':
+	return 93
+if row_label == 'pl3':
+	return 94
+if row_label == 'p13':
+	return 95
+if row_label == 'pm13':
+	return 96
+if row_label == 'ph5.3':
+	return 97
+if row_label == 'pr80':
+	return 98
+if row_label == 'pw4.2':
+	return 99
+if row_label == 'ph2.4':
+	return 100
+if row_label == 'ph4.4':
+	return 101
+if row_label == 'ph3.8':
+	return 102
+if row_label == 'pl0':
+	return 103
+if row_label == 'ph4.3':
+	return 104
+if row_label == 'ph3.2':
+	return 105
+if row_label == 'p20':
+	return 106
+if row_label == 'pa8':
+	return 107
+if row_label == 'pw3':
+	return 108
+if row_label == 'ph2.1':
+	return 109
+if row_label == 'i11':
+	return 110
+if row_label == 'ph1.5':
+	return 111
+if row_label == 'ph2.9':
+	return 112
+if row_label == 'ph2.6':
+	return 113
+if row_label == 'i15':
+	return 114
+if row_label == 'pr10':
+	return 115
+if row_label == 'pm2.5':
+	return 116
+if row_label == 'pw4.5':
+	return 117
+if row_label == 'pw4':
+	return 118
+if row_label == 'p7':
+	return 119
+if row_label == 'pw3.5':
+	return 120
+if row_label == 'pl65':
+	return 121
+if row_label == 'blue':
+	return 122
+if row_label == 'i1':
+	return 123
+if row_label == 'st':
+	return 124
+if row_label == 'i2':
+	return 125
+if row_label == 'eo':
+	return 126
+if row_label == 'il30':
+	return 127
+if row_label == 'ir30':
+	return 128

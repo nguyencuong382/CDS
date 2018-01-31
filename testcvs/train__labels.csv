@@ -1,0 +1,14 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+62.jpg,2048,2048,traffic_sign,447,980,471,1003
+62.jpg,2048,2048,traffic_sign,451,1006,471,1029
+43.jpg,2048,2048,traffic_sign,1083,666,1158,740
+43.jpg,2048,2048,traffic_sign,319,714,379,780
+43.jpg,2048,2048,traffic_sign,1187,996,1208,1017
+35.jpg,2048,2048,traffic_sign,952,973,977,998
+56.jpg,2048,2048,traffic_sign,1613,985,1652,1025
+39.jpg,2048,2048,traffic_sign,710,1118,727,1140
+60.jpg,2048,2048,traffic_sign,1495,865,1534,905
+60.jpg,2048,2048,traffic_sign,1533,866,1567,904
+60.jpg,2048,2048,traffic_sign,1566,867,1601,905
+23.jpg,2048,2048,traffic_sign,437,1093,492,1160
+80.jpg,2048,2048,traffic_sign,844,987,867,1025
